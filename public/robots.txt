@@ -1,0 +1,17 @@
+User-agent: *
+Allow: /
+Disallow: /sign-in
+Disallow: /sign-up
+Disallow: /random
+
+Sitemap: https://kaidoo.online/api/anime/sitemap
+Sitemap: https://kaidoo.online/api/anime/sitemap1
+Sitemap: https://kaidoo.online/api/anime/sitemap2
+Sitemap: https://kaidoo.online/api/anime/sitemap3
+Sitemap: https://kaidoo.online/api/anime/sitemap4
+Sitemap: https://kaidoo.online/api/anime/sitemap5
+Sitemap: https://kaidoo.online/api/anime/sitemap6
+Sitemap: https://kaidoo.online/api/anime/sitemap7
+Sitemap: https://kaidoo.online/api/anime/sitemap8
+Sitemap: https://kaidoo.online/api/anime/sitemap9
+Sitemap: https://kaidoo.online/api/anime/sitemap10
